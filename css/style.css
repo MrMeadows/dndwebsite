@@ -1,0 +1,41 @@
+﻿@import url("C:/Users/scste/OneDrive/dnd-website/css/nav.css");
+
+h1 {
+    color: white;
+    font-size: 3rem;
+    font-family: "Lucida Handwriting", "Times New Roman", serif;
+    line-height: 1.5;
+}
+
+h2 span {
+    color: darkgray;
+    font-size: 2rem;
+}
+
+h2 span {
+    color: red;
+    font-size: 2.5rem;
+    letter-spacing: 2px;
+    padding: 10px;
+}
+
+p {
+    font: 1.5rem Arial, sans-serif;
+}
+
+iframe {
+    aspect-ratio: 24 / 9;
+    height: 90%;
+    width: 90%;
+    display: block;
+    margin: auto;
+    margin-top: 60px;
+    border-radius: 6px;
+}
+/*
+    Increase sharpness on image
+    need logo
+    I also want the "Sunset of Evalia" to be either a logo or a small title image like in game intros.
+    I need to get the main image to cover the whole white space.
+    Sunset of Evalia must go over the left third of the main image, ideally after a few seconds?
+*/
