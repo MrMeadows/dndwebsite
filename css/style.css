@@ -7,9 +7,10 @@ h1 {
     line-height: 1.5;
 }
 
-h2 span {
+h2 {
     color: darkgray;
     font-size: 2rem;
+    font-family: "Lucida Handwriting", "Times New Roman", serif;
 }
 
 h2 span {
