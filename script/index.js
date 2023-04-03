@@ -1,1 +1,1 @@
-$("#nav-placeholder").load("html\nav.html");
+$("#nav-placeholder").load("nav.html");
