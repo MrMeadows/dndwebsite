@@ -1,1 +1,3 @@
-$("#nav-placeholder").on("load", "nav.html");
+$("#nav-placeholder").on("load", function () {
+    $.get("html/nav.html");
+});
