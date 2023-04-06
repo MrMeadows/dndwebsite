@@ -4,4 +4,4 @@ function loadNav() {
         .then(text => document.getElementById('nav-placeholder').innerHTML = text);
 }
 
-function loadNav();
+loadNav();
