@@ -1,7 +1,6 @@
-﻿@import url("nav.css");
+﻿@import url("css/nav.css");
 
 h1 {
-    color: white;
     font-size: 3rem;
     font-family: "Bookinsanity", "Times New Roman", serif;
     line-height: 1.5;
