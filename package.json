@@ -8,6 +8,7 @@
   },
   "author": "Sebastian Meadows",
   "license": "ISC",
+  "type": "module",
   "devDependencies": {
     "solbera-dnd-fonts": "^1.0.2"
   }
