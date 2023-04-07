@@ -5,4 +5,3 @@ function loadNav() {
 }
 
 loadNav();
-import "@solbera-dnd-fonts";
