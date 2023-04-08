@@ -3,7 +3,7 @@
   "type": "module",
   "version": "1.0.0",
   "description": "To hold npm packages",
-  "main": "index.js",
+  "main": "script/packages.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
