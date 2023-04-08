@@ -1,4 +1,4 @@
-import Bookinsanity from "solbera-dnd-fonts";
+import "solbera-dnd-fonts" from "packages.json";
 
 function loadNav() {
     fetch('nav.html')
