@@ -1,4 +1,4 @@
-const dndFonts = require("solbera-dnd-fonts");
+import Bookinsanity from "solbera-dnd-fonts";
 
 function loadNav() {
     fetch('nav.html')

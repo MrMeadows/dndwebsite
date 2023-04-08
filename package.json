@@ -1,9 +1,8 @@
 {
   "name": "packages",
-  "type": "commonjs",
   "version": "1.0.0",
   "description": "To hold npm packages",
-  "main": "script/packages.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
