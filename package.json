@@ -1,6 +1,5 @@
 {
   "name": "packages",
-  "type": "module",
   "version": "1.0.0",
   "description": "To hold npm packages",
   "main": "script/packages.js",
