@@ -1,4 +1,4 @@
-import * as source from '/node_modules/solbera-dnd-fonts/package.json';
+import * as source from 'node_modules/solbera-dnd-fonts/package.json';
 
 function loadNav() {
     fetch('nav.html')
