@@ -1,4 +1,4 @@
-import * as source from '/package.json';
+import * as source from '/package/package.json';
 
 function loadNav() {
     fetch('nav.html')
