@@ -1,4 +1,4 @@
-import source from 'solbera-dnd-fonts';
+import * as source from 'solbera-dnd-fonts';
 
 function loadNav() {
     fetch('nav.html')
