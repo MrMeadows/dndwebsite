@@ -1,4 +1,4 @@
-import * as source from '/dndwebsite/packages.json';
+import * as source from '/package.json';
 
 function loadNav() {
     fetch('nav.html')
